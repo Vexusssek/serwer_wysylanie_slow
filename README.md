@@ -1,0 +1,1 @@
+# serwer_wysylanie_slow
